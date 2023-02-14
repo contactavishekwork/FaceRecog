@@ -12,4 +12,9 @@ opencv_lbphfaces:
          cols: 16384
          dt: f
          data: []
+         labels: !!opencv-matrix
+         rows: 529
+         cols: 1
+         dt: i
+         data: []
          labelsInfo: []
